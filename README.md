@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @developersansfrontieres
+- 👀 I’m interested in 2D platformer game developpement
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on 2D game projects
+- 📫 How to reach me (soon)
